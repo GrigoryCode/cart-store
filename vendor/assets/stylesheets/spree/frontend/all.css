@@ -8,3 +8,7 @@
  *= require_self
  *= require_tree .
 */
+
+* {
+  border-radius: 0px !important;
+}
